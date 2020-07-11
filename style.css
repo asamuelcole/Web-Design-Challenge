@@ -1,0 +1,88 @@
+header {
+    color: white;
+    background-color: #42b398;
+    /* margin-bottom: 20px; */
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    color: #42b398;
+    font-size: 42px;
+    margin-bottom: 20px;
+}
+
+h2 {
+  color: #42b398;
+  /* padding-bottom: 50px; */
+}
+
+body {
+    background-color: #cccccc;
+    padding: 40px;
+}
+
+/* Giving our navbar some padding and a background color */
+.navbar {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    background: #ffffff;
+    margin-bottom: 45px;
+  }
+  
+  /* .navbar {
+    margin-bottom: 45px;
+  } */
+
+  /* Making our navbar li's inline-block elements this makes it so we can have multiple on the same line. Floats could have been used too */
+  .navbar li {
+    color: #ffffff;
+    display: inline-block;
+    padding: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    background: #42b398;
+
+  }
+
+  .navbar li a {
+    color: #ffffff;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+  }
+
+  .box {
+    background-color: #ffffff;
+    padding: 40px;
+    /* height: 500px */
+    /* font-family: 'Times New Roman', Times, serif */
+  }
+
+  /* .container {
+    background-color: #ffffff;
+    padding: 40px;
+    height: 500 px;
+  } */
+
+  p {
+    color: #454545;
+    font-size: 16px;
+  }
+
+.col-md-12 {
+
+}
+
+
+
+
+
+
+  /* @media (max-width: 600px) {
+
+  } */
